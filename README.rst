@@ -10,7 +10,7 @@ celebrate members of your community.
 For more about the thinking behind this project, check out this essay:
 `Why does Mozilla need a Badger?  <http://decafbad.com/2010/07/badger-article/>`_
 
-The ``django-badger-multiplayer`` is intended as an add-on to
+The ``django-badger-multiplayer`` package is intended as an add-on to
 ``django-badger``. It offers (or plans to offer) the following:
 
 - Views and enhanced models that enable users to create their own badges and
@@ -38,7 +38,7 @@ Other Badger apps
 Here are other apps in the Badger family, either in progress or proposed:
 
 `django-badger <https://github.com/lmorchard/django-badger>`_
-    The core Badger apps. Offers facilities to create Badges, issue Awards,
+    The core Badger app. Offers facilities to create Badges, issue Awards,
     and track Progress.
 
 `django-badger-api <https://github.com/lmorchard/django-badger-api>`_
